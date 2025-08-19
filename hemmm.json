@@ -2,8 +2,7 @@
   "name": "HEMMM",
   "symbol": "HEM",
   "description": "My awesome HEMMM token",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/hemm-token-assets/main/logo.png",
-  "external_url": "https://yourwebsite.com",
+  "image": "https://raw.githubusercontent.com/lottopinch/hemm-token-assets/main/logo.png",
   "attributes": [
     { "trait_type": "Coolness", "value": "Maximum" },
     { "trait_type": "Rarity", "value": "Legendary" }
